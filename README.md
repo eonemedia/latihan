@@ -1,0 +1,2 @@
+# latihan
+Repository untuk latihan
